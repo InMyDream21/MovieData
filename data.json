@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "title": "Pacific Rim",
+            "rating": "6.9",
+            "synopsis": "Pemerintah menyebut, Jaegers, pasukan robot yang bertepur melawan Kaijus, tak efektif. Tapi Stacker Pentakosta dan timnya percaya bahwa, hanya Jaegers yang dapat menyelamatkan dunia dari kehancuran.",
+            "releaseYear": "2013",
+            "director": "Guillermo del Toro",
+            "poster": "https://i.ibb.co/TvGZCYk/image-2023-11-18-212728362.png"
+        },
+        {
+            "title": "The Greatest Showman",
+            "rating": "7.5",
+            "synopsis": "Terinspirasi oleh imajinasi P.T. Barnum, The Greatest Showman adalah musikal asli yang menceritakan kelahiran bisnis pertunjukan dan bercerita tentang seorang visioner yang bangkit dari nol untuk menciptakan tontonan yang menjadi sensasi di seluruh dunia.",
+            "releaseYear": "2017",
+            "director": "Michael Gracey",
+            "poster": "https://i.ibb.co/grkHHYF/the-greatest-showman.jpg"
+        },
+        {
+            "title": "Avengers: Infinity War",
+            "rating": "8.4",
+            "synopsis": "The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.",
+            "releaseYear": "2018",
+            "director": "Anthony Russo, Joe Russo",
+            "poster": "https://i.ibb.co/RzpSWPJ/infinity-war.jpg"
+          },
+          {
+            "title": "Avengers: Endgame",
+            "rating": "8.4",
+            "synopsis": "Melanjutkan Avengers Infinity War, dimana kejadian setelah Thanos berhasil mendapatkan semua infinity stones dan memusnahkan 50% semua mahluk hidup di alam semesta. Akankah para Avengers berhasil mengalahkan Thanos?",
+            "releaseYear": "2019",
+            "director": "Anthony Russo, Joe Russo",
+            "poster": "https://i.ibb.co/TvcKstz/endgame.jpg"
+          },
+          {
+            "title": "Real Steel",
+            "rating": "7.1",
+            "synopsis": "Charlie ingin terkenal bersama robotnya di arena pertarungan. Namun kekalahan membuatnya terpuruk. Petualangan kembali dimulai saat Max, putranya yang asing memasuki hidupnya bersama robot petarung.",
+            "releaseYear": "2011",
+            "director": "Shawn Levy",
+            "poster": "https://i.ibb.co/4RrN3fZ/real-steel.png"
+          },
+          {
+            "title": "Aquaman",
+            "rating": "6.8",
+            "synopsis": "Film ini mengungkap asal-usul Arthur Curry, manusia perkasa yang bisa mengendalikan air dan hewan laut. Dari mana ia mendapatkan kekuatannya? Siapa orang tuanya, dan pantaskah dia menjadi seorang raja di 7samudera?",
+            "releaseYear": "2018",
+            "director": "James Wan",
+            "poster": "https://i.ibb.co/YDPhzVd/aquaman.jpg"
+          },
+          {
+            "title": "Justice League",
+            "rating": "6.1",
+            "synopsis": "Dipicu oleh kepercayaannya terhadap kemanusiaan dan terinspirasi oleh tindakan tanpa pamrih Superman (Henry Cavill), Bruce Wayne (Ben Affleck) mengumpulkan sekutu baru Diana Prince untuk menghadapi ancaman yang lebih besar lagi. Bersama-sama, Batman dan Wonder Woman bekerja sama untuk merekrut tim untuk melawan musuh yang baru dibangun ini. Meskipun terbentuknya liga pahlawan yang belum pernah terjadi sebelumnya - Batman, Wonder Woman, Aquaman, Cyborg dan Flash - mungkin sudah terlambat untuk menyelamatkan planet ini dari serangan dengan proporsi bencana.",
+            "releaseYear": "2017",
+            "director": "Zack Snyder",
+            "poster": "https://i.ibb.co/pRSBn4G/justice-league.jpg"
+          },
+          {
+            "title": "Black Panther",
+            "rating": "7.3",
+            "synopsis": "Sebagai Raja baru dari Wakanda, T’Challa (Chadwick Boseman) masih bergumul mengenai perasaannya atas meninggalnya sang ayah, T’Chaka (John Kani). Namun ia kemudian memutuskan untuk meneruskan perjuangan sang ayah. Ketika Wakanda berada dalam ancaman dua musuh berbahaya yang dapat mengancam keselamatan negara, Black Panther berusaha membuktikan diri sebagai raja sejati Wakanda. Ia harus menggunakan kostum barunya serta kekuatannya untuk membela Wakanda dan negara lainnya.",
+            "releaseYear": "2018",
+            "director": "Ryan Coogler",
+            "poster": "https://i.ibb.co/wsczp0D/black-panther.jpg"
+          },
+          {
+            "title": "Your Name",
+            "rating": "8.4",
+            "synopsis": "Film Your Name menceritakan tentang seorang gadis sekolah menengah bernama Mitsuha Miyamizu yang memiliki sebuah mimpi yang sangat kontras dengan kehidupannya saat ini di pedesaan. Mitsuha mendambakan untuk menjalani kehidupan seorang anak laki-laki di kota Tokyo yang ramai. Sementara itu di kota, seorang anak laki-laki bernama Taki Tachibana, menjalani kehidupan yang sibuk sebagai seorang siswa sekolah menengah, serta bekerja paruh waktu dan berharap untuk masa depannya di arsitektur. Suatu hari, Mitsuha terbangun di kamar yang bukan miliknya. Tiba-tiba dia mendapati dirinya menjalani kehidupan impian di Tokyo. Namun, ternyata Mitsuha berada di dalam tubuh Taki. Di tempat lainnya, Taki yang berada di dalam tubuh Mitsuha, menjalani kehidupan di pedesaan yang sederhana. Untuk mencari jawaban atas fenomena aneh tersebut, mereka mulai saling mencari satu sama lain.",
+            "releaseYear": "2016",
+            "director": "Makoto Shinkai",
+            "poster": "https://i.ibb.co/dLY1cCk/your-name.jpg"
+          },
+          {
+            "title": "How to Train Your Dragon 2",
+            "rating": "7.8",
+            "synopsis": "Sudah lima tahun sejak Hiccup dan Toothless menyatukan naga dan Viking di Pulau Berk. Tak lama kemudian, mereka terjebak dalam pertempuran baru melawan Penunggang Naga misterius bernama Drago.",
+            "releaseYear": "2014",
+            "director": "Dean Deblois",
+            "poster": "https://i.ibb.co/6nzwz08/httyd2.jpg"
+          }
+    ]
+}
